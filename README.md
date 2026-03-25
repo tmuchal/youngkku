@@ -107,6 +107,6 @@ AI가 매일 새벽 자동으로 생성하는 맞춤 콘텐츠를 통해, 별도
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [tm_uchal]**
 
 </div>

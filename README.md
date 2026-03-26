@@ -2,11 +2,13 @@
 
 # 🐕 영뀨 (YoungKku)
 
+### 👉 [지금 바로 영뀨 시작하기 → daily-english-routine.lovable.app](https://daily-english-routine.lovable.app)
+
 ### 초압축 1분 영어 콘텐츠 큐(뀨)레이션
 
 > 매일 엄선된 영어 콘텐츠로 1분 만에 영어 감각을 깨우세요!
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-바로가기-4A90D9?style=for-the-badge)](https://daily-english-routine.lovable.app)
+[![영뀨 바로가기](https://img.shields.io/badge/🐕_영뀨_바로가기-지금_시작-FF6B35?style=for-the-badge)](https://daily-english-routine.lovable.app)
 [![Status](https://img.shields.io/badge/Status-운영중-success?style=for-the-badge)]()
 
 <br />
@@ -101,7 +103,7 @@ AI가 매일 새벽 자동으로 생성하는 맞춤 콘텐츠를 통해, 별도
 
 ## 🔗 링크
 
-- 🌐 **라이브 데모**: [daily-english-routine.lovable.app](https://daily-english-routine.lovable.app)
+- 🐕 **영뀨 바로가기**: [daily-english-routine.lovable.app](https://daily-english-routine.lovable.app)
 
 ---
 
